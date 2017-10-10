@@ -4,6 +4,7 @@
 #VERSION : 1
 #Date:3-Aug-2017
 #AUTHOR : sajeev S  
+#added this file to Git-Hub account
 #####################################################################################################################################
 $pwd = Get-location # To get the current working directory
 $users_list = "Users_list.txt" # Input file
