@@ -1,6 +1,7 @@
 Wscript.Echo "Hello World....."
 Wscript.Echo "This is my first program"
 Wscript.Echo "Hi Dude....."
+Wscript.Echo "Just check Office Network"
 
 '***********************************************************************************************************************
 'NAME:HPESSAP0192-Virus And Malicious Code Scan-v2.1.vbs
